@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://3190dltw.netlify.app/* https://dltw.rotaract3190.org/:splat 301!

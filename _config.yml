@@ -30,5 +30,5 @@ markdown: kramdown
 #     output: true
 #     permalink: /:path/
 
-# include:
-#   - _redirects
+include:
+  - _redirects
