@@ -1,0 +1,33 @@
+    <section id="speakers">
+        
+        {% for type in site.data.speakers %}
+        <div class="container" data-aos="fade-up">
+          <div class="section-header">
+            <h2>{{type.title}}</h2>
+            <p>{{type.subtitle}}</p>
+          </div>
+  
+          <div class="row justify-content-center">
+            {% for speaker in type.speakers %}
+            <div class="col-lg-4 col-md-6">
+              <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+                <img src="{{speaker.img}}" alt="{{speaker.name}}" draggable="false" class="img-fluid">
+                <div class="details">
+                  <h3><a>{{speaker.name}}</a></h3>
+                  <p>{{speaker.sub}}</p>
+                  <div class="social">
+                    {% if speaker.social.twitter %}<a href="{{speaker.social.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a>{% endif %}
+                    {% if speaker.social.facebook %}<a href="{{speaker.social.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a>{% endif %}
+                    {% if speaker.social.instagram %}<a href="{{speaker.social.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a>{% endif %}
+                    {% if speaker.social.linkedin %}<a href="{{speaker.social.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a>{% endif %}
+                  </div>
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+          
+        </div>
+        {% endfor %}
+
+      </section>

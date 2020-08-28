@@ -1,0 +1,20 @@
+- title: Partner Clubs
+  orgs:
+    - name: Banashankari
+      logo: assets/img/supporters/banashankari.png
+    - name: Bangalore Rajmahal Vilas
+      logo: assets/img/supporters/rmv.png
+    - name: MES College
+      logo: assets/img/supporters/mes.png
+    - name: PES University
+      logo: assets/img/supporters/pes.png
+    - name: Ramaiah Institute of Management (RIMS)
+      logo: assets/img/supporters/rims.png
+# - title: Sponsors
+#   orgs:
+#     - name: 1
+#       logo: assets/img/logo.png
+#     - name: 2
+#       logo: assets/img/logo.png
+#     - name: 3
+#       logo: assets/img/logo.png

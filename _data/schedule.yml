@@ -1,0 +1,60 @@
+- d-title: Day 1
+  schedule:
+    - time: 03:30 PM*
+      type: Login & Greetings
+      speaker:
+      sub: Start joining as per the instructions.
+      img: assets/img/og_img.png
+    - time: TBA
+      type: Inauguration
+      speaker:
+      sub: Open the doors to learning.
+      img: assets/img/og_img.png
+    - time: TBA
+      type: Keynote Session 1
+      speaker:
+      sub: Listen from the thought leaders.
+      img: assets/img/og_img.png
+    - time: TBA
+      type: Keynote Session 2
+      speaker:
+      sub: Listen from the thought leaders.
+      img: assets/img/og_img.png
+    - time: TBA
+      type: Breakout Speaker Sessions
+      speaker:
+      sub: Listen to the Inspiring achievers.
+      img: assets/img/og_img.png
+#     - time: 10:00 AM
+#       type: Keynote
+#       speaker: ZeoSpec
+#       sub: Join the registartion by that time.
+#       img: assets/img/speakers/zeospec.jpg
+
+- d-title: Day 2
+  schedule:
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker:
+      sub: Learn from the impactful Rotaract Leaders.
+      img: assets/img/og_img.png
+    - time: TBA
+      type: Valedictory
+      speaker:
+      sub: Thanks giving. 
+      img: assets/img/og_img.png
+#     - time: 10:00 AM
+#       type: Keynote
+#       speaker: ZeoSpec
+#       sub: Join the registartion by that time.
+#       img: assets/img/speakers/zeospec.jpg
+#     - time: 10:00 AM
+#       type: Keynote
+#       speaker: ZeoSpec
+#       sub: Join the registartion by that time.
+#       img: assets/img/speakers/zeospec.jpg
+#     - time: 10:00 AM
+#       type: Keynote
+#       speaker: ZeoSpec
+#       sub: Join the registartion by that time.
+#       img: assets/img/speakers/zeospec.jpg

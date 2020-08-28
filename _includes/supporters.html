@@ -1,0 +1,21 @@
+<section id="supporters" class="section-with-bg">
+
+    {% for type in site.data.supporters %}
+    <div class="container" data-aos="fade-up">
+      <div class="section-header">
+        <h2>{{type.title}}</h2>
+      </div>
+
+      <div class="row no-gutters supporters-wrap clearfix justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+        {% for supporter in type.orgs %}
+        <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="supporter-logo">
+            <img src="{{supporter.logo}}"  draggable="false" class="img-fluid" alt="{{supporter.name}}">
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+    </div>
+    {% endfor %}
+  </section>
