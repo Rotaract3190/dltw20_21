@@ -1,0 +1,17 @@
+    <section id="gallery">
+
+        <div class="container" data-aos="fade-up">
+          <div class="section-header">
+            <h2>Why Attend?</h2>
+            <!-- <p>Check our summary of 7 reasons to attend.</p> -->
+            <p>Caaaming Sooon!!!</p>
+          </div>
+        </div>
+  
+        <div class="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
+          {% for reason in site.data.reasons %}
+          <a href="{{reason.img}}" class="venobox" data-gall="gallery-carousel"><img src="{{reason.img}}" alt="{{reason.name}}"></a>
+          {% endfor %}
+        </div>
+  
+      </section>

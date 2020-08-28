@@ -1,0 +1,45 @@
+
+<section id="schedule" class="section-with-bg">
+    <div class="container" data-aos="fade-up">
+      <div class="section-header">
+        <h2>Schedule</h2>
+        <p>Here is our event schedule</p>
+      </div>
+
+      <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
+        {% for day in site.data.schedule %}
+        <li class="nav-item">
+          <a class="nav-link {% if forloop.first == true %}active{% endif %}" href="#day-{{ forloop.index }}" role="tab" data-toggle="tab">{{day.d-title}}</a>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <h3 class="sub-heading">Join us in the program conducted over a span of two days to impart the Knowledge of best practices.</h3>
+
+      <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
+
+        {% for day in site.data.schedule %}
+        <div role="tabpanel" class="col-lg-9 tab-pane fade {% if forloop.first == true %}show active{% endif %}" id="day-{{ forloop.index }}">
+
+          {% for item in day.schedule %}
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>{{item.time}}</time></div>
+            <div class="col-md-10">
+              {% if item.img %}
+              <div class="speaker">
+                <img src="{{item.img}}" draggable="false" alt="{{item.speaker}}">
+              </div>
+              {% endif %}
+              <h4>{{item.type}} {% if item.speaker %}<span>{{item.speaker}}</span>{% endif %}</h4>
+              <p>{{item.sub}}</p>
+            </div>
+          </div>
+          {% endfor %}
+          
+        </div>
+        {% endfor %}
+      </div>
+
+    </div>
+
+  </section>

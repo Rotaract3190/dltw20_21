@@ -4,94 +4,16 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>DLTW - District Leadership Training Workshop</title>
-  <meta content="Annual District Rotaract Training sessions of Rotaract 3190" name="descriptison">
-  <meta content="Rotaract, Rotaract3190, Training, RID3190" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-</head>
+{% include head.html %}
 
 <body>
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex flex-column align-items-center">
-
-      <h1>DLTW</h1>
-      <h2>District Leadership Training Workshop</h2>
-      <h2>Watch till the clock ticks to zero for more information</h2>
-      <div class="countdown d-flex justify-content-center" data-count="2020/08/29">
-        <div>
-          <h3>%D</h3>
-          <h4>Days</h4>
-        </div>
-        <div>
-          <h3>%H</h3>
-          <h4>Hours</h4>
-        </div>
-        <div>
-          <h3>%M</h3>
-          <h4>Minutes</h4>
-        </div>
-        <div>
-          <h3>%S</h3>
-          <h4>Seconds</h4>
-        </div>
-      </div>
-
-      <div class="section-title">
-        <h2>Stay Connected</h2>
-        <p>Follow us on below Social links to stay updated with latest news from <a href="https://rotaract3190.org" target="_blank">Rotaract 3190</a>.</p>
-      </div>
-
-      <div class="social-links text-center">
-        <a href="https://twitter.com/Rotaract3190" class="twitter"><i class="icofont-twitter"></i></a>
-        <a href="https://www.facebook.com/rotaract3190/" class="facebook"><i class="icofont-facebook"></i></a>
-        <a href="https://www.instagram.com/rotaract3190/" class="instagram"><i class="icofont-instagram"></i></a>
-      </div>
-
-    </div>
-  </header><!-- End #header -->
-
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Rotaract 3190</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <a href="https://bootstrapmade.com/" target="_blank"><i class="icofont-heart"></i></a> - <a href="https://zeospec.com" target="_blank"><i class="icofont-code"></i></a>
-      </div>
-    </div>
-  </footer><!-- End #footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/jquery-countdown/jquery.countdown.min.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
+  {% include header.html %}
+  {% include intro.html %}
+  <main id="main">
+    {{content}}
+    </main>
+{% include footer.html %}
+{% include footer_script.html %}
 </body>
 
 </html>
