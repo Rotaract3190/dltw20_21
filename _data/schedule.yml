@@ -1,26 +1,31 @@
 - d-title: Day 1
   schedule:
-    - time: 03:30 PM*
+    - time: 04:30 PM
       type: Login & Greetings
       speaker:
       sub: Start joining as per the instructions.
       img: assets/img/og_img.png
-    - time: TBA
+    - time: 05:00 PM
       type: Inauguration
       speaker:
       sub: Open the doors to learning.
       img: assets/img/og_img.png
-    - time: TBA
-      type: Keynote Session 1
+    # - time: 05:30 PM
+    #   type: Keynote
+    #   speaker: Dr. M.I.M. Nehruzii
+    #   sub: You are the Key!
+    #   img: assets/img/speakers/nehruzii.png
+    - time: 05:30 PM
+      type: Keynote
       speaker:
-      sub: Listen from the thought leaders.
+      sub: TBA
       img: assets/img/og_img.png
-    - time: TBA
-      type: Keynote Session 2
+    - time: 06:10 PM
+      type: Keynote
       speaker:
-      sub: Listen from the thought leaders.
+      sub: TBA
       img: assets/img/og_img.png
-    - time: TBA
+    - time: 06:45 PM
       type: Breakout Speaker Sessions
       speaker:
       sub: Listen to the Inspiring achievers.
@@ -33,6 +38,11 @@
 
 - d-title: Day 2
   schedule:
+    - time: 10:30 AM
+      type: Login & Greetings
+      speaker:
+      sub: Start joining as per the instructions.
+      img: assets/img/og_img.png
     - time: 11:00 AM
       type: Avenue Training Sessions
       speaker:
@@ -43,18 +53,3 @@
       speaker:
       sub: Thanks giving. 
       img: assets/img/og_img.png
-#     - time: 10:00 AM
-#       type: Keynote
-#       speaker: ZeoSpec
-#       sub: Join the registartion by that time.
-#       img: assets/img/speakers/zeospec.jpg
-#     - time: 10:00 AM
-#       type: Keynote
-#       speaker: ZeoSpec
-#       sub: Join the registartion by that time.
-#       img: assets/img/speakers/zeospec.jpg
-#     - time: 10:00 AM
-#       type: Keynote
-#       speaker: ZeoSpec
-#       sub: Join the registartion by that time.
-#       img: assets/img/speakers/zeospec.jpg

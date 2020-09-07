@@ -1,15 +1,26 @@
-# - sub: Reason 1
-#   img: assets/img/reasons/1.png
-# - sub: Reason 2
-#   img: assets/img/reasons/1.png
-# - sub: Reason 3
-#   img: assets/img/reasons/1.png
-# - sub: Reason 4
-#   img: assets/img/reasons/1.png
-# - sub: Reason 5
-#   img: assets/img/reasons/1.png
-# - sub: Reason 6
-#   img: assets/img/reasons/1.png
-# - sub: Reason 7
-#   img: assets/img/reasons/1.png
-  
+- sub: Reason 1
+  img: assets/img/reasons/1.jpeg
+- sub: Reason 2
+  img: assets/img/reasons/2.jpeg
+- sub: Reason 3
+  img: assets/img/reasons/3.jpeg
+- sub: Reason 4
+  img: assets/img/reasons/4.jpeg
+- sub: Reason 5
+  img: assets/img/reasons/5.jpeg
+- sub: Reason 6
+  img: assets/img/reasons/6.jpeg
+- sub: Reason 7
+  img: assets/img/reasons/7.jpeg
+- sub: Reason 8
+  img: assets/img/reasons/8.jpeg
+- sub: Reason 9
+  img: assets/img/reasons/9.jpeg
+- sub: Reason 10
+  img: assets/img/reasons/10.jpeg
+- sub: Reason 11
+  img: assets/img/reasons/11.jpeg
+- sub: Reason 12
+  img: assets/img/reasons/12.jpeg
+- sub: Reason 13
+  img: assets/img/reasons/13.jpeg

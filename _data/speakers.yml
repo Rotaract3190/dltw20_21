@@ -1,8 +1,16 @@
 - title: Keynote Speakers
-  subtitle: Caaaming Sooon!!!
+  subtitle: Leadership Voice!
   speakers:
     # - name: Dr. M.I.M. Nehruzii
-    #   sub: Speaker Title
+    #   sub: Chairman, GEMS B SCHOOL
+    #   img: assets/img/speakers/nehruzii.png
+    #   social:
+    #     twitter: 
+    #     facebook: 
+    #     instagram: 
+    #     linkedin: 
+    # - name: Dr. M.I.M. Nehruzii
+    #   sub: Chairman, GEMS B SCHOOL
     #   img: assets/img/speakers/nehruzii.png
     #   social:
     #     twitter: 
@@ -11,49 +19,121 @@
     #     linkedin: 
  
 - title: Breakout Session Speakers
-  subtitle: Caaaming Sooon!!!
-  speakers:
+  subtitle: Listen to the Inspiring achievers.
+  speakers: 
     
 - title: Trainers
-  subtitle: Caaaming Sooon!!!
+  subtitle: Learn from the impactful Rotaract Leaders.
   speakers:
-    # - name: Naveen P Senna
-    #   sub: PDRR, RID 3190
-    #   img: assets/img/speakers/dhiksoochi.png
-    #   social:
-    #     twitter: https://zeospec.com
-    #     facebook: https://zeospec.com
-    #     instagram: https://zeospec.com
-    #     linkedin: https://zeospec.com
-    # - name: Rajesh Subramanian
-    #   sub: PP, RSAMDIO
-    #   img: assets/img/speakers/dhiksoochi.png
-    #   social:
-    #     twitter: https://zeospec.com
-    #     facebook: https://zeospec.com
-    #     instagram: https://zeospec.com
-    #     linkedin: https://zeospec.com
-    # - name: Ajay Chandran
-    #   sub: PDRR, RID 3201
-    #   img: assets/img/speakers/dhiksoochi.png
-    #   social:
-    #     twitter: https://zeospec.com
-    #     facebook: https://zeospec.com
-    #     instagram: https://zeospec.com
-    #     linkedin: https://zeospec.com
-    # - name: Shashi Kumar M
-    #   sub: IPDRR, RID 3201
-    #   img: assets/img/speakers/dhiksoochi.png
-    #   social:
-    #     twitter: https://zeospec.com
-    #     facebook: https://zeospec.com
-    #     instagram: https://zeospec.com
-    #     linkedin: https://zeospec.com
-    # - name: Shailaja
-    #   sub: PDRR, RID ...
-    #   img: assets/img/speakers/dhiksoochi.png
-    #   social:
-    #     twitter: https://zeospec.com
-    #     facebook: https://zeospec.com
-    #     instagram: https://zeospec.com
-    #     linkedin: https://zeospec.com
+    - name: PDRR Rtr. Ajay Chandran
+      sub: Chairman Rotasia 2021, RID 3201
+      img: assets/img/speakers/ajaychandran.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/ajay.chandran.58
+        instagram: https://www.instagram.com/ajayrccacil/
+        linkedin: 
+    - name: PP Rtr. Arun Teja Godavarthi
+      sub: DRS Operations & Training  | RID 3190
+      img: assets/img/speakers/zeospec.jpg
+      social:
+        twitter: https://twitter.com/ZeoSpec
+        facebook: https://www.facebook.com/zeospec/
+        instagram: https://www.instagram.com/ZeoSpec/
+        linkedin: 
+    - name: PP Rtr. Chetan U
+      sub: District Joint Secretary, RID 3190
+      img: assets/img/speakers/chetan.jpeg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/chetanu.naidu
+        instagram: https://www.instagram.com/chetan_naidu821/
+        linkedin: 
+    - name: PP Rtr. Darshan Sachidananda
+      sub: Rotaract Bangalore West
+      img: assets/img/speakers/darshan.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/darsh18
+        instagram: 
+        linkedin: 
+    - name: PDRR Rtr. Hittaishi H K
+      sub: DRR 2017 - 2018, RID 3181
+      img: assets/img/speakers/Hittaishi.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/HITAISSHI
+        instagram: 
+        linkedin: 
+    - name: PDRR Rtr. Kiran Raj N
+      sub: DRR 2018 - 2019, RID 3190
+      img: assets/img/speakers/kiran.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/kiran.rajn.5
+        instagram: https://www.instagram.com/kiranrajnh/
+        linkedin: 
+    - name: PDRR Rtr. Naveen P Senna
+      sub: DRR 2017 - 2018 | RID 3190
+      img: assets/img/speakers/naveen.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/profile.php?id=100003403050066
+        instagram: https://www.instagram.com/naveensenna/
+        linkedin: 
+    - name: PP Rtr. Nikhil K S
+      sub: Rotaract Bangalore West
+      img: assets/img/speakers/nikhil.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/ksnikki
+        instagram: 
+        linkedin: 
+    - name: PP Rtr. Nishantha C K
+      sub: DRS 2018 - 2019 | RID 3190
+      img: assets/img/speakers/nishantha.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/nishantha.chandrakumar
+        instagram: https://www.instagram.com/nishaa_19_/
+        linkedin: 
+    - name: PP Rtr. Pooja Girish
+      sub: Rotaract Bangalore Jayanagar
+      img: assets/img/speakers/pooja.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/pooja.girish21
+        instagram: https://www.instagram.com/poojacgirish/
+        linkedin: 
+    - name: PDRR Rtr. Rajesh Subramanian
+      sub: President 2016 - 2017, RSAMDIO
+      img: assets/img/speakers/rajesh.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/mars.raje
+        instagram: 
+        linkedin: 
+    - name: PDRR Rtr. Sailaja Rayavarapu
+      sub: DRR 2018 - 2019, RID 3020
+      img: assets/img/speakers/sailaja.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/r.sailaja
+        instagram: 
+        linkedin: 
+    - name: IPDRR Rtr. Shashi Kumar M
+      sub: DRR 2019 - 2020, RID 3190
+      img: assets/img/speakers/shashi.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/profile.php?id=1024167290
+        instagram: https://www.instagram.com/rtrshashi143/
+        linkedin: 
+    - name: Rtr. Vivek Raveesh Bhatt
+      sub: Rotaract Bangalore West
+      img: assets/img/speakers/vivek.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/vivek.raveesh.bhatt
+        instagram: https://www.instagram.com/vivekraveeshbhatt/
+        linkedin: 
