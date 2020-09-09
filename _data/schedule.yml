@@ -10,31 +10,21 @@
       speaker:
       sub: Open the doors to learning.
       img: assets/img/og_img.png
-    # - time: 05:30 PM
-    #   type: Keynote
-    #   speaker: Dr. M.I.M. Nehruzii
-    #   sub: You are the Key!
-    #   img: assets/img/speakers/nehruzii.png
     - time: 05:30 PM
       type: Keynote
-      speaker:
-      sub: TBA
-      img: assets/img/og_img.png
+      speaker: Dr. M.I.M. Nehruzii
+      sub: You are the key
+      img: assets/img/speakers/nehruzii.png
     - time: 06:10 PM
       type: Keynote
-      speaker:
-      sub: TBA
-      img: assets/img/og_img.png
-    - time: 06:45 PM
+      speaker: Sunish Jauhari
+      sub: "GenNation Building: Youth Duties and Rights"
+      img: assets/img/speakers/sunish.jpeg
+    - time: 06:50 PM
       type: Breakout Speaker Sessions
       speaker:
       sub: Listen to the Inspiring achievers.
       img: assets/img/og_img.png
-#     - time: 10:00 AM
-#       type: Keynote
-#       speaker: ZeoSpec
-#       sub: Join the registartion by that time.
-#       img: assets/img/speakers/zeospec.jpg
 
 - d-title: Day 2
   schedule:
@@ -45,9 +35,74 @@
       img: assets/img/og_img.png
     - time: 11:00 AM
       type: Avenue Training Sessions
-      speaker:
-      sub: Learn from the impactful Rotaract Leaders.
-      img: assets/img/og_img.png
+      speaker: PDRR Rtr. Naveen P
+      sub: Presidents
+      img: assets/img/speakers/naveen.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PP Rtr. Nishantha C K
+      sub: Secretaries
+      img: assets/img/speakers/nishantha.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PP Rtr. Arun Teja Godavarthi
+      sub: Secretaries
+      img: assets/img/speakers/zeospec.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PP Rtr. Nikhil K S
+      sub: Treasury
+      img: assets/img/speakers/nikhil.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PP Rtr. Darshan Sachidananda
+      sub: Treasury
+      img: assets/img/speakers/darshan.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PP Rtr. Chetan U
+      sub: Sergeant at Arms
+      img: assets/img/speakers/chetan.jpeg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PDRR Rtr. Hitaisshi
+      sub: Sergeant at Arms
+      img: assets/img/speakers/Hittaishi.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PP Rtr. Pooja Girish
+      sub: Club Service
+      img: assets/img/speakers/pooja.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: IPDRR Rtr. Shashi Kumar M
+      sub: Community Service
+      img: assets/img/speakers/shashi.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PDRR Rtr. Kiran Raj
+      sub: Community Service
+      img: assets/img/speakers/kiran.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PDRR Rtr. Ajay Chandran
+      sub: International Service
+      img: assets/img/speakers/ajaychandran.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PDRR Rtr. Rajesh Subramanian
+      sub: Professional Development
+      img: assets/img/speakers/rajesh.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: Rtr. Vivek Raveesh Bhatt
+      sub: Public Relations
+      img: assets/img/speakers/vivek.jpg
+    - time: 11:00 AM
+      type: Avenue Training Sessions
+      speaker: PDRR Rtr. Sailaja Rayavarapu
+      sub: Editors
+      img: assets/img/speakers/sailaja.jpg
     - time: TBA
       type: Valedictory
       speaker:

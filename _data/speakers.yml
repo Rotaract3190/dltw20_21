@@ -1,26 +1,58 @@
 - title: Keynote Speakers
   subtitle: Leadership Voice!
   speakers:
-    # - name: Dr. M.I.M. Nehruzii
-    #   sub: Chairman, GEMS B SCHOOL
-    #   img: assets/img/speakers/nehruzii.png
-    #   social:
-    #     twitter: 
-    #     facebook: 
-    #     instagram: 
-    #     linkedin: 
-    # - name: Dr. M.I.M. Nehruzii
-    #   sub: Chairman, GEMS B SCHOOL
-    #   img: assets/img/speakers/nehruzii.png
-    #   social:
-    #     twitter: 
-    #     facebook: 
-    #     instagram: 
-    #     linkedin: 
+    - name: Dr. M.I.M. Nehruzii
+      sub: Chairman, GEMS B SCHOOL
+      img: assets/img/speakers/nehruzii.png
+      social:
+        twitter: 
+        facebook: 
+        instagram: 
+        linkedin: 
+    - name: Sunish Jauhari
+      sub: Founder, CoRPS
+      img: assets/img/speakers/sunish.jpeg
+      social:
+        twitter: https://twitter.com/sunishjauhari
+        facebook: 
+        instagram: 
+        linkedin: https://www.linkedin.com/in/sunishjauhari/
  
 - title: Breakout Session Speakers
-  subtitle: Listen to the Inspiring achievers.
-  speakers: 
+  subtitle: Listen to the Inspiring achievers. (More to be Announced)
+  speakers:
+    - name: Dr. Krishnamurthy Venkatesh
+      sub: Ex. Indian Air Force 
+      img: assets/img/speakers/krishnamurthy.jpeg
+      social:
+        twitter: 
+        facebook: 
+        instagram: 
+        linkedin:
+    - name: Neeraj Narayan
+      sub: Founder, On His Own Trip
+      img: assets/img/speakers/neeraj.jpg
+      social: 
+        twitter: https://twitter.com/neerajnarayanan
+        facebook: 
+        instagram: https://www.instagram.com/onhisowntrip
+        linkedin: https://www.linkedin.com/in/neeraj-narayanan-70325125/
+    - name: Niharika Bora
+      sub: Lead - Careers in Impact, Sattva Consulting
+      img: assets/img/speakers/niharika.jpg
+      social:
+        twitter: https://twitter.com/niharikabora
+        facebook: 
+        instagram: 
+        linkedin: https://www.linkedin.com/in/niharikabora24/
+    - name: Rakshith M
+      sub: Founder, fit fest
+      img: assets/img/speakers/rakshit.jpeg
+      social:
+        twitter: 
+        facebook:
+        instagram: https://www.instagram.com/Rakshith_m_95/
+        linkedin:
     
 - title: Trainers
   subtitle: Learn from the impactful Rotaract Leaders.
@@ -34,7 +66,7 @@
         instagram: https://www.instagram.com/ajayrccacil/
         linkedin: 
     - name: PP Rtr. Arun Teja Godavarthi
-      sub: DRS Operations & Training  | RID 3190
+      sub: DRS Operations & Training, RID 3190
       img: assets/img/speakers/zeospec.jpg
       social:
         twitter: https://twitter.com/ZeoSpec
@@ -90,7 +122,7 @@
         instagram: 
         linkedin: 
     - name: PP Rtr. Nishantha C K
-      sub: DRS 2018 - 2019 | RID 3190
+      sub: DRS 2018 - 2019, RID 3190
       img: assets/img/speakers/nishantha.jpg
       social:
         twitter: 
