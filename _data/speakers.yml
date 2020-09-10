@@ -20,7 +20,15 @@
  
 - title: Breakout Session Speakers
   subtitle: Listen to the Inspiring achievers. (More to be Announced)
-  speakers:
+  speakers: 
+    - name: Elango Stanislaus
+      sub: Trainer/Facilitator
+      img: assets/img/speakers/elango.jpeg
+      social:
+        twitter: 
+        facebook: 
+        instagram: 
+        linkedin:
     - name: Dr. Krishnamurthy Venkatesh
       sub: Ex. Indian Air Force 
       img: assets/img/speakers/krishnamurthy.jpeg
@@ -29,7 +37,7 @@
         facebook: 
         instagram: 
         linkedin:
-    - name: Neeraj Narayan
+    - name: Neeraj Narayanan
       sub: Founder, On His Own Trip
       img: assets/img/speakers/neeraj.jpg
       social: 
@@ -45,6 +53,14 @@
         facebook: 
         instagram: 
         linkedin: https://www.linkedin.com/in/niharikabora24/
+    - name: Prabhav Mussaddi
+      sub: Investment Specialist
+      img: assets/img/speakers/Prabhav.jpeg
+      social:
+        twitter: 
+        facebook: 
+        instagram:
+        linkedin:
     - name: Rakshith M
       sub: Founder, fit fest
       img: assets/img/speakers/rakshit.jpeg

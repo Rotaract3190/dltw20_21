@@ -21,9 +21,39 @@
       sub: "GenNation Building: Youth Duties and Rights"
       img: assets/img/speakers/sunish.jpeg
     - time: 06:50 PM
-      type: Breakout Speaker Sessions
-      speaker:
-      sub: Listen to the Inspiring achievers.
+      type: Breakout Session
+      speaker: Elango Stanislaus
+      sub: Community Attention to Reach Everyone
+      img: assets/img/speakers/elango.jpeg
+    - time: 06:50 PM
+      type: Breakout Session
+      speaker: Dr. Krishnamurthy Venkatesh
+      sub: Discipline, a crucial ingredient for a Leader
+      img: assets/img/speakers/krishnamurthy.jpeg
+    - time: 06:50 PM
+      type: Breakout Session
+      speaker: Neeraj Narayanan
+      sub: How strangers bond in a team, and come back as friends!
+      img: assets/img/speakers/neeraj.jpg
+    - time: 06:50 PM
+      type: Breakout Session
+      speaker: Niharika Bora
+      sub: Up-skilling yourself for this competitive world
+      img: assets/img/speakers/niharika.jpg
+    - time: 06:50 PM
+      type: Breakout Session
+      speaker: Prabhav Mussaddi
+      sub: How to create wealth
+      img: assets/img/speakers/Prabhav.jpeg
+    - time: 06:50 PM
+      type: Breakout Session
+      speaker: Rakshith M
+      sub: "Brand-wagon: what drives a brand and who drives it"
+      img: assets/img/speakers/rakshit.jpeg
+    - time: 06:50 PM
+      type: Assembly
+      speaker: ELITE Presdient & Secretaries
+      sub: President - Secretary Meeting
       img: assets/img/og_img.png
 
 - d-title: Day 2
