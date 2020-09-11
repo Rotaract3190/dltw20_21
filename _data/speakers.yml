@@ -19,7 +19,7 @@
         linkedin: https://www.linkedin.com/in/sunishjauhari/
  
 - title: Breakout Session Speakers
-  subtitle: Listen to the Inspiring achievers. (More to be Announced)
+  subtitle: Listen to the Inspiring achievers.
   speakers: 
     - name: Elango Stanislaus
       sub: Trainer/Facilitator
@@ -45,14 +45,14 @@
         facebook: 
         instagram: https://www.instagram.com/onhisowntrip
         linkedin: https://www.linkedin.com/in/neeraj-narayanan-70325125/
-    - name: Niharika Bora
-      sub: Lead - Careers in Impact, Sattva Consulting
-      img: assets/img/speakers/niharika.jpg
-      social:
-        twitter: https://twitter.com/niharikabora
-        facebook: 
-        instagram: 
-        linkedin: https://www.linkedin.com/in/niharikabora24/
+    # - name: Niharika Bora
+    #   sub: Lead - Careers in Impact, Sattva Consulting
+    #   img: assets/img/speakers/niharika.jpg
+    #   social:
+    #     twitter: https://twitter.com/niharikabora
+    #     facebook: 
+    #     instagram: 
+    #     linkedin: https://www.linkedin.com/in/niharikabora24/
     - name: Prabhav Mussaddi
       sub: Investment Specialist
       img: assets/img/speakers/Prabhav.jpeg

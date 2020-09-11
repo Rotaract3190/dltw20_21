@@ -23,32 +23,32 @@
     - time: 06:50 PM
       type: Breakout Session
       speaker: Elango Stanislaus
-      sub: Community Attention to Reach Everyone
+      sub: Community Attention to Reach Everyone (Community Service)
       img: assets/img/speakers/elango.jpeg
     - time: 06:50 PM
       type: Breakout Session
       speaker: Dr. Krishnamurthy Venkatesh
-      sub: Discipline, a crucial ingredient for a Leader
+      sub: Discipline, a crucial ingredient for a Leader (Sergeant At Arms)
       img: assets/img/speakers/krishnamurthy.jpeg
     - time: 06:50 PM
       type: Breakout Session
       speaker: Neeraj Narayanan
-      sub: How strangers bond in a team, and come back as friends!
+      sub: How strangers bond in a team, and come back as friends! (Club Service, International Service)
       img: assets/img/speakers/neeraj.jpg
-    - time: 06:50 PM
-      type: Breakout Session
-      speaker: Niharika Bora
-      sub: Up-skilling yourself for this competitive world
-      img: assets/img/speakers/niharika.jpg
+    # - time: 06:50 PM
+    #   type: Breakout Session
+    #   speaker: Niharika Bora
+    #   sub: Up-skilling yourself for this competitive world (Professional Service)
+    #   img: assets/img/speakers/niharika.jpg
     - time: 06:50 PM
       type: Breakout Session
       speaker: Prabhav Mussaddi
-      sub: How to create wealth
+      sub: How to create wealth (Treasury)
       img: assets/img/speakers/Prabhav.jpeg
     - time: 06:50 PM
       type: Breakout Session
       speaker: Rakshith M
-      sub: "Brand-wagon: what drives a brand and who drives it"
+      sub: "Brand-wagon: what drives a brand and who drives it (Public Relations, Editors)"
       img: assets/img/speakers/rakshit.jpeg
     - time: 06:50 PM
       type: Assembly
