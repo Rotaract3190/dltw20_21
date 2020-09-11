@@ -45,15 +45,7 @@
         facebook: 
         instagram: https://www.instagram.com/onhisowntrip
         linkedin: https://www.linkedin.com/in/neeraj-narayanan-70325125/
-    # - name: Niharika Bora
-    #   sub: Lead - Careers in Impact, Sattva Consulting
-    #   img: assets/img/speakers/niharika.jpg
-    #   social:
-    #     twitter: https://twitter.com/niharikabora
-    #     facebook: 
-    #     instagram: 
-    #     linkedin: https://www.linkedin.com/in/niharikabora24/
-    - name: Prabhav Mussaddi
+    - name: Prabhav Mussaddi 
       sub: Investment Specialist
       img: assets/img/speakers/Prabhav.jpeg
       social:
@@ -69,7 +61,15 @@
         facebook:
         instagram: https://www.instagram.com/Rakshith_m_95/
         linkedin:
-    
+    - name: Shruti Jaipuria
+      sub: Learner, Strategist, Consultant, Entrepreneur
+      img: assets/img/speakers/shruthi.jpg
+      social:
+        twitter: 
+        facebook: https://www.facebook.com/shrutijaipuria 
+        instagram: 
+        linkedin:
+        
 - title: Trainers
   subtitle: Learn from the impactful Rotaract Leaders.
   speakers:
